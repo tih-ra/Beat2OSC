@@ -1,13 +1,16 @@
 Beat2OSC
 =============
 
-Audio analyzer and osc sender + OSC_KICK.oscd file for OSCulator routing
+Audio analyzer and osc sender + OSC_KICK.oscd file for OSCulator routing.
+
 Useful for Resolume (Avenu, Arena), VDMX and COGE
 
 
 ## OSC MESSAGES
 /kick  - float (from 0 to 1)
+
 /snare  - float (from 0 to 1)
+
 /hat  - float (from 0 to 1)
 
 ### License
